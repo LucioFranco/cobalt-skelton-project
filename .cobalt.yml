@@ -1,1 +1,6 @@
 name: Cobalt.rs
+source: "."
+dest: "build"
+ignore:
+  - ./.git/*
+  - ./build/*
